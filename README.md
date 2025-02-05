@@ -28,3 +28,6 @@ This project serves as a simple yet effective tool to help users monitor their B
   - Input validation  
   - Error handling  
   - Categorized health feedback.
+
+## 🚀 **Live Demo**  
+🌐  View the Live Demo Here [BMI-Calculator](https://meahadi-bmi-calculator.netlify.app) 
